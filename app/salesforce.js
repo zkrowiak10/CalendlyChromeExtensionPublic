@@ -6,7 +6,7 @@
 
 
 let SFDC = "https://<HOSTCOMPANY>.my.salesforce.com/"
-let gainsight ="https://<HOSTCOMPANY>--jbcxm.na66.visual.force.com/apex/JBCXM__customersuccess360?cid="
+let gainsight ="https://<HOSTCOMPANY><uri>?cid="
 const SFContactList = "https://<HOSTCOMPANY>.my.salesforce.com/003?rlid=RelatedContactList&id="
 
 
